@@ -1,0 +1,17 @@
+#mynavbar {  
+  background-image: url("Logo\ \(1\).png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+  background-position: 500cm center;
+}
+#mynavbar li a {  
+  color: lime; 
+}
+#mynavbar li a:hover {
+  background-color: #3e473e;   
+  color: lime;        
+}
+.collapse.navbar-collapse {
+    margin-left: 15%; 
+}
